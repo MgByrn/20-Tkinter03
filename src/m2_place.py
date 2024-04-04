@@ -27,7 +27,7 @@ window.mainloop()
 #   Once you have done this, then change the above _TODO_ to DONE.
 #
 #
-# TODO: 2. (4 pts)
+# DONE: 2. (4 pts)
 #
 #   Now, create one frame dimensions 200 by 200.
 #
